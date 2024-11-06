@@ -1,2 +1,3 @@
 SUCCESS # <- gt4500 1 torpedóval a primary torpedoStore-ban
+Unknown firing mode: 'SECOND'
 SUCCESS # <- kilőtte a torpedót
