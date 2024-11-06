@@ -1,0 +1,4 @@
+#először a primary torpedoStore-ból lő
+GT4500,1,0,0,0
+TORPEDO,SECOND
+TORPEDO,SINGLE
