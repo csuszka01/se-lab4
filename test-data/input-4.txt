@@ -1,0 +1,4 @@
+#első torpedo biztosan hibás
+GT4500,1,1,1,0
+TORPEDO,SINGLE #failure
+TORPEDO,SINGLE #kilövi a másikat

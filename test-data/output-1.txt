@@ -1,0 +1,2 @@
+SUCCESS # <- gt4500 1 torpedóval a primary torpedoStore-ban
+SUCCESS # <- kilőtte a torpedót

@@ -1,0 +1,6 @@
+#felváltva lő a két torpedoStore-ból
+GT4500,2,0,1,0
+TORPEDO,SINGLE # először az elsőből lő
+TORPEDO,SINGLE # másodikból
+TORPEDO,SINGLE # elsőben maradt egy
+TORPEDO,SINGLE # másodikban nem lesz
